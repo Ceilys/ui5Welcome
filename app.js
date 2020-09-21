@@ -1,6 +1,7 @@
 var http = require('http');
 var fs = require('fs');
 
+// User Heroku port or local port
 const PORT = process.env.PORT || 5000;
 
 fs.readFile('./index.html', function (err, html) {
