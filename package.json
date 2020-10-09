@@ -4,7 +4,7 @@
     "version": "0.1.0",
     "dependencies": {
         "fs": "0.0.1-security",
-        "http": "0.0.1-security",
+        "http": "0.0.1-security"
      },
     "author": "Christophe <cgandin@gmail.com>",
     "description": "Utilisation Open UI to create a site",
